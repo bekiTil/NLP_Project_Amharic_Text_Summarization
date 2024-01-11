@@ -1,0 +1,2 @@
+# NLP_Project_Amharic_Text_Summarization
+Amharic Text Summarization 
