@@ -16,3 +16,4 @@ tqdm
 ipywidgets
 torch
 torchvision
+fastapi

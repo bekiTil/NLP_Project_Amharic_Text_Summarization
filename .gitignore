@@ -1,2 +1,6 @@
+*.bin
+*.safetensors
+
 # venv
 venv 
+__pycache__

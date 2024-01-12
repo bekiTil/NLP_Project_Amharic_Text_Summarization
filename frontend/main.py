@@ -1,12 +1,12 @@
 import gradio as gr
-# import reque`sts
+import requests
 
-BACKEND_URL = "http://localhost:8080"
+BACKEND_URL = "http://localhost:8000/items"
+
 
 def respond(msg: str, history: list):
-    # response = requests.post(BACKEND_URL, data={"text": msg})
-    # history.append((msg, response.json()[-1]))
-    history.append((msg, msg))
+    response = requests.post(BACKEND_URL, json={"text": msg})
+    history.append((msg, response.json()[-1]["text"]))
     return "", history
 
 
