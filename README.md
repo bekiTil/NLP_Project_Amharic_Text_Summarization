@@ -1,4 +1,21 @@
 # NLP Project: Amharic Text Summarization
+# Student Information
+
+- **BEREKET TILAHUN**  
+  Registration Number: UGR/9703/12
+
+- **DURESSA JEMAL**  
+  Registration Number: UGR/3937/12
+
+- **ELSAI DERIBU**  
+  Registration Number: UGR/0066/12
+
+- **YARED TSEGAYE**  
+  Registration Number: UGR/8284/12
+
+- **YEABSIRA DRIBA**  
+  Registration Number: UGR/4951/12
+
 
 ## Table of Contents
 
