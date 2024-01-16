@@ -27,7 +27,7 @@
 
    ```bash
    git clone https://github.com/bekiTil/NLP_Project_Amharic_Text_Summarization.git
-   cd socialbot
+   cd NLP_Project_Amharic_Text_Summarization
    ```
 
 2. **Create Virtual Environment:**
